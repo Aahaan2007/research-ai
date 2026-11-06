@@ -1,0 +1,6 @@
+ollama
+ddgs
+trafilatura
+google-api-python-client
+google-auth-oauthlib
+streamlit

@@ -1,0 +1,16 @@
+# Secrets - never commit these
+credentials.json
+token.json
+client_secret*.json
+.env
+
+# Generated output
+output/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
